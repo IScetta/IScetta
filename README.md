@@ -34,7 +34,7 @@ My goal is to continue growing professionally and provide innovative solutions i
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -48,10 +48,6 @@ My goal is to continue growing professionally and provide innovative solutions i
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>   
 </div>
 
-</td><td valign="top" width="33%">
-
-
-</td></tr></table>  
 
 <br/>  
 
