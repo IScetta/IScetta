@@ -7,17 +7,18 @@
 ### <div align="center">Full-Stack developer with a knack for creative solutions, armed with NextJS, React, TailwindCSS, PostgreSQL, and MongoDB.</div>  
   
 
-- 🔭 I’m currently working on my [Henry](https://soyhenry.com/) Final Project  
-  
+Hello, I'm Isaías, a passionate FullStack programmer specialized in Front End web development. Throughout my career, I have mastered technologies like JavaScript, React, Next.js, Tailwind CSS, Express and TypeScript, as well as working with SQL databases like PosgreSQL and NoSQL like MongoDB.
 
-- 🌱 I’m currently learning NextJS   
+I studied Computer Engineering at Facultad Nacional del Litoral until my third year. Since I was a child, I have always been fascinated by technology and I intend to continue my university studies in the future.
+
+My goal is to continue growing professionally and provide innovative solutions in every project I undertake.
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -49,14 +50,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
-### Skills  
-<div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
 
 </td></tr></table>  
 
